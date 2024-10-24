@@ -7,18 +7,18 @@ This tool is intended for educational purposes only. Unauthorized use of message
 
 #### Features :
 
-> Send multiple messages automatically to a specified recipient.
-> Easy to set up and use with customizable message intervals.
-> Can be adapted to different messaging platforms (e.g., WhatsApp, Telegram) using their respective APIs or web automation.
+- Send multiple messages automatically to a specified recipient.
+- Easy to set up and use with customizable message intervals.
+- Can be adapted to different messaging platforms (e.g., WhatsApp, Telegram) using their respective APIs or web automation.
 
 
 #### Requirements :
 
-> Python 3.x
-> pywhatkit or any other platform-specific libraries
-> Web browser with access to the target messaging service (e.g., WhatsApp Web)
-> Installation
-> Clone the repository
+- Python 3.x
+- pywhatkit or any other platform-specific libraries
+- Web browser with access to the target messaging service (e.g., WhatsApp Web)
+- Installation
+- Clone the repository
 
 Customize the target phone number, message content, and frequency in the script.
 
